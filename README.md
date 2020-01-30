@@ -25,7 +25,7 @@ TECH::EXPERTの全カリキュラムが終了し、実際に今までの学習�
 ・キャンプ用品をセットでレンタルできるため初心者でも気軽にレンタルできます
 
 ## 🌐URL
-### http://52.193.251.163/
+### http://camp-space.herokuapp.com/
 
 <img width="1191" alt="campspace" src="https://user-images.githubusercontent.com/57335336/71817355-f037c280-30c8-11ea-82ec-74db87b5cac5.png">
 
